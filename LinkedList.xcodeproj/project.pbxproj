@@ -12,6 +12,7 @@
 		4862219220230EA400EB6F74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4862219020230EA400EB6F74 /* Main.storyboard */; };
 		4862219420230EA400EB6F74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4862219320230EA400EB6F74 /* Assets.xcassets */; };
 		4862219720230EA400EB6F74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4862219520230EA400EB6F74 /* LaunchScreen.storyboard */; };
+		4862219F2023107700EB6F74 /* linkedListFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4862219E2023107700EB6F74 /* linkedListFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4862219320230EA400EB6F74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4862219620230EA400EB6F74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4862219820230EA400EB6F74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4862219E2023107700EB6F74 /* linkedListFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linkedListFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4862218C20230EA400EB6F74 /* AppDelegate.swift */,
 				4862218E20230EA400EB6F74 /* ViewController.swift */,
+				4862219E2023107700EB6F74 /* linkedListFile.swift */,
 				4862219020230EA400EB6F74 /* Main.storyboard */,
 				4862219320230EA400EB6F74 /* Assets.xcassets */,
 				4862219520230EA400EB6F74 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4862219F2023107700EB6F74 /* linkedListFile.swift in Sources */,
 				4862218F20230EA400EB6F74 /* ViewController.swift in Sources */,
 				4862218D20230EA400EB6F74 /* AppDelegate.swift in Sources */,
 			);
